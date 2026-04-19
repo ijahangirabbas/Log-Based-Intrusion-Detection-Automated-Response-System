@@ -1,0 +1,23 @@
+LOG-BASED INTRUSION DETECTION REPORT
+============================================================
+
+ALERT: Medium Risk
+IP: 172.16.0.22
+Failed Attempts: 5
+Time Window: 5 minutes
+First Attempt: 2026-04-19 20:38:10
+Last Attempt: 2026-04-19 20:42:56
+Actions Taken:
+   - [WATCHLIST] IP 172.16.0.22 has been added to WATCHLIST
+--------------------------------------------------
+
+ALERT: Medium Risk
+IP: 192.168.1.200
+Failed Attempts: 7
+Time Window: 5 minutes
+First Attempt: 2026-04-19 21:00:37
+Last Attempt: 2026-04-19 21:05:15
+Actions Taken:
+   - [WATCHLIST] IP 192.168.1.200 has been added to WATCHLIST
+--------------------------------------------------
+

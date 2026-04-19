@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Log-Based Intrusion Detection & Automated Response System
 
 ## Project Description
@@ -13,3 +14,6 @@ A Python-based system that monitors login activity from log files, detects possi
 ## How to Run
 1. Run `python main.py`
 2. Check `reports/alerts.txt` for results
+=======
+# Starting-Log-Based-Intrusion-Detection-Automated-Response-System
+>>>>>>> 03b4ff67f2564a03e613912b4a00ff94f5aff985
